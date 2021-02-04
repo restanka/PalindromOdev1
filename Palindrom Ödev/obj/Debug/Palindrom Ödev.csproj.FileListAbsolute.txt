@@ -1,0 +1,14 @@
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.exe.config
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.exe
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.pdb
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.csproj.CoreCompileInputs.cache
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.exe
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.pdb
+C:\Users\resta\source\repos\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.csprojAssemblyReference.cache
+E:\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.exe.config
+E:\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.exe
+E:\ForWhileDögüsü\Palindrom Ödev\bin\Debug\Palindrom Ödev.pdb
+E:\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.csprojAssemblyReference.cache
+E:\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.csproj.CoreCompileInputs.cache
+E:\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.exe
+E:\ForWhileDögüsü\Palindrom Ödev\obj\Debug\Palindrom Ödev.pdb
